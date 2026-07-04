@@ -16,15 +16,16 @@ En este 2026, la competitividad del mercado depende de la ejecución autónoma. 
 
 ## 📂 Repository Structure / Estructura del Repositorio
 
-*   **`/Automations`**: Production-ready code (Python/Node.js) for connecting AI with communication channels (WhatsApp, Gmail) and databases. / Código listo para producción para conectar IA con canales de comunicación y bases de datos.
-*   **`/System-Prompts`**: Advanced instructions to engineer reliable, non-hallucinating AI roles for customer support, legal triage, and sales. / Instrucciones avanzadas para estructurar roles de IA confiables y sin alucinaciones para soporte, legal y ventas.
-*   **`/Data-Pipelines`**: Automated scripts to scrape, organize, and analyze customer behavior data using LLMs. / Scripts automatizados para extraer, organizar y analizar datos de comportamiento de clientes usando modelos de lenguaje.
+*   **`/Automations`**: 
+    *   🚀 **`enterprise-ai-orchestrator.js`**: **[NEW]** Production-grade Node.js middleware for secure LLM API routing, payload validation, and CRM syncing. / *Middleware de nivel de producción en Node.js para enrutamiento seguro de APIs, validación de datos y sincronización con CRMs.*
+    *   **`google-sheets-lead-pipeline.js`**: Automated script for lead generation and database webhooks. / *Script automatizado para generación de leads y webhooks de bases de datos.*
+*   **`/System-Prompts`**: Advanced instructions to engineer reliable, non-hallucinating AI roles for customer support and sales. / *Instrucciones avanzadas para estructurar roles de IA confiables y sin alucinaciones para soporte y ventas.*
 
 ## 🚀 Our Core Pillars / Nuestros Pilares Centrales
 
-1.  **Autonomous Client Acquisition** (Lead scoring & appointment setting agents). / **Adquisición Autónoma de Clientes** (Agentes de calificación de leads y agendamiento).
-2.  **Workflow Optimization** (Eliminating hours of manual data entry with secure pipelines). / **Optimización de Flujos de Trabajo** (Eliminación de horas de carga manual de datos).
-3.  **Secure AI Integration** (Ensuring company knowledge bases stay safe and private). / **Integración Segura de IA** (Garantizando que las bases de conocimientos empresariales permanezcan seguras y privadas).
+1.  **Enterprise-Grade Orchestration**: Clean architecture middleware ready for heavy corporate traffic. / **Orquestación de Nivel Empresarial**: Arquitectura limpia lista para alto tráfico corporativo.
+2.  **Workflow Optimization**: Eliminating hours of manual data entry with secure pipelines. / **Optimización de Flujos de Trabajo**: Eliminación de horas de carga manual de datos.
+3.  **Secure AI Integration**: Strict guardrails to ensure company knowledge bases stay safe and private. / **Integración Segura de IA**: Filtros estrictos para garantizar que los datos empresariales permanezcan seguros y privados.
 
 ---
 
@@ -33,4 +34,4 @@ En este 2026, la competitividad del mercado depende de la ejecución autónoma. 
 *   **Cyber Security Suite:** [neuralFocusAI Cyber Defense](https://neuralfocusai-rgb.github.io/NeurofocusIA-Ciberseguridad/)
 
 ---
-💡 *Need a custom AI agent tailored to your company's CRM or internal tools? Let's build your competitive edge. Contact us for private enterprise integration or auditing.*
+💡 *Need a custom AI middleware tailored to your company's CRM or internal tools? Let's build your competitive edge. Contact us for private enterprise integration or auditing.*
