@@ -30,8 +30,9 @@ En este 2026, la competitividad del mercado depende de la ejecución autónoma. 
 ---
 
 ## 🌐 Corporate Navigation / Navegación Corporativa
-*   **Main Website:** [neuralFocusAI Hub](https://neuralfocusai-rgb.github.io/NeurofocusIA-AI-Automation/)
-*   **Cyber Security Suite:** [neuralFocusAI Cyber Defense](https://neuralfocusai-rgb.github.io/NeurofocusIA-Ciberseguridad/)
+* **Cyber Security Suite:** [https://neuralfocusai-rgb.github.io/neuralfocusIA-Cibersecurity/](https://neuralfocusai-rgb.github.io/neuralfocusIA-Cibersecurity/)
+* **AI Automation Hub:** [https://neuralfocusai-rgb.github.io/NeurofocusIA-AI-Automation/](https://neuralfocusai-rgb.github.io/NeurofocusIA-AI-Automation/)
+
 
 ---
 💡 *Need a custom AI middleware tailored to your company's CRM or internal tools? Let's build your competitive edge. Contact us for private enterprise integration or auditing.*
